@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Lilium</string>
+    <string name="article_subtitle">Description</string>
+    <string name="article_text">From: https://en.wikipedia.org/wiki/Lilium \n \nLilies are tall perennials ranging in height from 2–6 ft (60–180 cm). They form naked or tunicless scaly underground bulbs which are their organs of perennation. \n \nIn some North American species the base of the bulb develops into rhizomes, on which numerous small bulbs are found. Some species develop stolons. \n \nMost bulbs are buried deep in the ground, but a few species form bulbs near the soil surface.\n \nMany species form stem-roots. With these, the bulb grows naturally at some depth in the soil, and each year the new stem puts out adventitious roots above the bulb as it emerges from the soil. \n \nThese roots are in addition to the basal roots that develop at the base of the bulb, a number of species also produce contractile roots that move the bulbs deeper into the soil. </string>
+    <string name="add_comment">Add Comment</string>
 </resources>
