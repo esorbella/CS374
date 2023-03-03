@@ -1,3 +1,0 @@
-com.example.simpleasynctask.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
