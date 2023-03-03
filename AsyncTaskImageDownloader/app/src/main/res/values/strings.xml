@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTaskImageDownloader</string>
+    <string name="random_image_text">Randomly generated image.</string>
+    <string name="loading_text">Loading....</string>
+</resources>
