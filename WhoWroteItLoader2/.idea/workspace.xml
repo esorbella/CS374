@@ -9,31 +9,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1dbd790-fbd3-4a81-b757-804d1414ea90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/whowroteitloader/BookLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/whowroteitloader/NetworkUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhoWroteItLoader2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WhoWroteItLoader.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="25d9abd9-7e6e-4b36-ac02-2fcbffcc9e99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../WhoWroteItLoader/.idea/WhoWroteItLoader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoWroteItLoader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhoWroteItLoader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhoWroteItLoader/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\toots\.android\avd\Pixel_4_API_30_1.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\toots\.android\avd\Nexus_7_2012_API_33.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -41,7 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MWW5P7VQzZgV9rU0XpQ7xhhZ4h" />
+  <component name="ProjectId" id="2MWVo6VvWvzdiQ8IxPpscRjQ4Zf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -118,23 +108,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f1dbd790-fbd3-4a81-b757-804d1414ea90" name="Changes" comment="" />
-      <created>1677883634757</created>
+      <changelist id="25d9abd9-7e6e-4b36-ac02-2fcbffcc9e99" name="Changes" comment="" />
+      <created>1677883496500</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677883634757</updated>
+      <updated>1677883496500</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
